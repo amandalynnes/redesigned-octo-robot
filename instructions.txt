@@ -1,5 +1,5 @@
-Instructions for Deploying this site.
----------------------------------------
+Instructions for Deploying this site to the server.
+----------------------------------------------------
 Lorem6 ipsum dolor sit, consectetuer adipiscing 50 elit. Dis quam sollicitudin dolor. Dapibus nos100 tra sapien. Malesuada porttitor donec phasellu150 s. Natoque urna integer odio. Nulla in sollici200 tudin.
 
 Volutpat convallis est nisl. Quisque m250 aximus etiam. Quis posuere habitasse turpis. D300 ictumst purus eu consequat malesuada. Curae du350 i penatibus. Himenaeos aptent sagittis non. Po400 rttitor bibendum amet. 
