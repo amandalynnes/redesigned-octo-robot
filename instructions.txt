@@ -7,5 +7,3 @@ Volutpat convallis est nisl. Quisque m250 aximus etiam. Quis posuere habitasse t
 
 Installation on IIS
 --------------------
-
-Content goes here
